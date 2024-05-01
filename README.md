@@ -4,7 +4,7 @@
   </a>
 </p>
 <p>
-  Yaptığım ilk bitmiş oyun oldu. Okyanusun derinliklerinden yüzeye doğru çıkmaya çalışan bir araç, engellere çarpmadan ilerlemeye çalışıyor. Hızlıca elden çıkarmaya çalıştığım bir oyun oldu. Ama bu oyundan da tecrübe kazandım ve yeni şeyler öğrendim.  
+  Yaptığım ilk bitmiş oyun oldu. Okyanusun derinliklerinden yüzeye doğru çıkmaya çalışan bir araç, engellere çarpmadan ilerlemeye çalışıyor. Hızlıca elden çıkarmaya çalıştığım bir oyundu. Ama bu oyundan da tecrübe kazandım ve yeni şeyler öğrendim.  
 </p>
 <p>
   Son halinin oynanışı:
